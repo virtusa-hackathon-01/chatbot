@@ -1,0 +1,28 @@
+body{
+    background-color: #07307a;
+}
+h1{
+    text-align: center;
+    font-family: 'VT323', system-ui;
+    font-weight: lighter;
+    font-size: 55px;
+    color:bisque;
+    letter-spacing: 2px;
+}
+h2{
+    margin-left: 20px;
+    margin-top: 40px;
+    color:#41e10bd8;
+    text-decoration: 2px underline;
+    font-family: 'VT323', sans-serif;
+    letter-spacing: 1px;
+}
+.headings{
+    margin-top: 75px;
+}
+p{
+    margin-left: 20px;
+    color:#f4a107b2;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
