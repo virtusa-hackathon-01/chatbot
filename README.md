@@ -14,7 +14,7 @@ python3 --version
 ```
 
 ```
-pip --version
+pip3 --version
 ```
 
 ## Installing Flask
